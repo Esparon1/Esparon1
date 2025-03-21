@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub!
 
-<!--
-**Esparon1/Esparon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineering Student | Double Diploma (Business & Tech)**  
+ Taking courses from **ETS, UQAM & HEC Montréal**  
+ **I enjoy problem-solving through algorithms and coding in Python. I'm still exploring different areas in software development, but I love logical challenges and continuously learning new things.**  
+ Based in Canada 🇨🇦  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages:** Python, Java, JavaScript, C , Bash,SQL
+- **Technologies:** Cloud (AWS), Distributed Systems , Machine Learning 
+- **Frameworks:** React,Node.js,Express,JUnit,TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
