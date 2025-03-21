@@ -2,7 +2,7 @@
 
 💻 **Software Engineering Student | Double Diploma (Business & Tech)**  
 🎓 Taking courses from **ETS, UQAM & HEC Montréal**  
-🔍**I enjoy problem-solving through algorithms and coding in Python. I'm still exploring different areas in software development, but I love logical challenges and continuously learning new things.**  
+🔍I enjoy **problem-solving** through algorithms and coding in Python. I'm still **exploring** different areas in software development, but I love logical challenges and **continuously learning** new things.**  
 🌎Based in Canada 🇨🇦  
 
 ### 🔧 Tech Stack
